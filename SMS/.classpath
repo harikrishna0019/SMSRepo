@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-aop-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-aspects-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-context-support-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-instrument-tomcat-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-jdbc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-jms-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-messaging-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-orm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-oxm-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-test-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-tx-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-web-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-webmvc-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-webmvc-portlet-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/spring-websocket-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/spring/springjars/rs/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/rs/hibernate-validator-annotation-processor-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/rs/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/spring/springjars/rs/validation-api-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA SOFTWARES/Framework Softwares/Hibernate/hibernate-release-4.1.8.Final/lib/required/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA SOFTWARES/Framework Softwares/Hibernate/hibernate-release-4.1.8.Final/lib/required/hibernate-core-4.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="E:/JAVA SOFTWARES/Framework Softwares/Hibernate/hibernate-release-4.1.8.Final/lib/required/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
